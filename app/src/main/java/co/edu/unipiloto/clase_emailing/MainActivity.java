@@ -10,8 +10,8 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static String emailAccount =		"beto0214@gmail.com";
-    private static String emailPassword =		"crc0815lhg";
+    private static String emailAccount =		"cuenta@gmail.com";
+    private static String emailPassword =		"clave_cuenta";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
